@@ -19,7 +19,7 @@ From the publication 'Increased interregional virus exchange and nucleotide dive
     "ampliconsize": 300,
     "schemeversion": "v1.0.0",
     "schemename": "irr-chikv-300",
-    "primer_bed_md5": "d7a58a09ce97670186c3b903079dcc9d",
+    "primer_bed_md5": "bb31284bc104ad9a13ff8edd14b48208",
     "reference_fasta_md5": "4dbeef4ea987df77e9043bb0e5a51ae6",
     "status": "validated",
     "citations": [
