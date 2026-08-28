@@ -32,7 +32,7 @@ From the publication 'Increased interregional virus exchange and nucleotide dive
     "species": [
         37124
     ],
-    "license": "CC BY-SA 4.0",
+    "license": "CC BY 4.0",
     "primerclass": "primerschemes",
     "infoschema": "v2.1.0",
     "articbedversion": "v3.0",
@@ -51,10 +51,3 @@ From the publication 'Increased interregional virus exchange and nucleotide dive
 }
 ```
 
-
-
-------------------------------------------------------------------------
-
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/) 
-
-![](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
