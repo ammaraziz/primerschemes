@@ -1,21 +1,22 @@
 {
     "ampliconsize": 300,
     "schemeversion": "v1.0.0",
-    "schemename": "irr-chikv-300",
-    "primer_bed_md5": "bb31284bc104ad9a13ff8edd14b48208",
-    "reference_fasta_md5": "4dbeef4ea987df77e9043bb0e5a51ae6",
+    "schemename": "quick-chikv-ecsa",
+    "primer_bed_md5": "69837908bf4d89963193fc2c673fcea5",
+    "reference_fasta_md5": "7f06dfa1bf98cd8bc7ed4b86ec000b40",
     "status": "validated",
     "citations": [
-        "10.1038/s41467-023-40099-y"
+        "Multiplex PCR method for MinION and Illumina sequencing of Zika and other virus genomes directly from clinical samples. doi:10.1038/nprot.2017.066"
     ],
     "authors": [
-        "Joilson Xavier"
+        "quick-lab",
+        "loman-lab"
     ],
-    "algorithmversion": "unknown",
+    "algorithmversion": "ps:100",
     "species": [
         37124
     ],
-    "license": "CC BY 4.0",
+    "license": "CC BY-SA 4.0",
     "primerclass": "primerschemes",
     "infoschema": "v2.1.0",
     "articbedversion": "v3.0",
@@ -28,7 +29,7 @@
         "misc": []
     },
     "refselect": null,
-    "description": "From the publication 'Increased interregional virus exchange and nucleotide diversity outline the expansion of chikungunya virus in Brazil'",
+    "description": null,
     "derivedfrom": null,
     "contactinfo": null
 }
